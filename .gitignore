@@ -1,0 +1,52 @@
+#################################
+# Sistema operativo / IDEs
+#################################
+# Archivos de macOS
+.DS_Store
+
+# Archivos de Windows
+Thumbs.db
+
+# Configuración de editores
+.vscode/
+.idea/
+
+#################################
+# Python
+#################################
+# Compilados, caché y demás
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Entornos virtuales
+venv/
+.venv/
+ENV/
+env/
+
+#################################
+# Archivos de entorno
+#################################
+# Variables de entorno y llaves
+.env
+*.env
+
+#################################
+# Logs
+#################################
+logs/
+*.log
+
+#################################
+# Otros
+#################################
+# Si se generan binarios locales
+bin/
+obj/
+
+# Si se generan directorios temporales
+tmp/
+temp/
